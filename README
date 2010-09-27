@@ -1,3 +1,5 @@
 Handy ping utility for the Trampoline SONAR Connector framework. Repeatedly pings a host and complains loudly when the host is unreachable.
 
 Note: Does not work on JRuby in Windows because the gem net-ping requires win32-open3.
+
+Copyright (c) 2010 Trampoline Systems Ltd. See LICENSE for details.
